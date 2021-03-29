@@ -1,2 +1,2 @@
 FROM alpine:3.12
-CMD ["/bin/sh","-c","echo bonne nuit"]
+CMD ["/bin/sh","-c","echo bon jour"]
